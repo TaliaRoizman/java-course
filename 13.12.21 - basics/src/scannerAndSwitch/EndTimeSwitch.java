@@ -1,8 +1,8 @@
-package a;
+package scannerAndSwitch;
 
 import java.util.Scanner;
 
-public class EndTime2 {
+public class EndTimeSwitch {
 	public static void main(String[] args) {
 		int day = (int)(Math.random()*7) +1; // 1 - 7 inclusive
 		System.out.println(day);

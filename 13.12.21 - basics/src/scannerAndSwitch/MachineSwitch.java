@@ -1,6 +1,6 @@
-package a;
+package scannerAndSwitch;
 
-public class SwitchDemo1 {
+public class MachineSwitch {
 
 	public static void main(String[] args) {
 //		String mode = "off";

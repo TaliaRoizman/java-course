@@ -1,6 +1,6 @@
 package a;
 
-public class Demo1 {
+public class Types {
 
 	public static void main(String[] args) {
 		int sum;
