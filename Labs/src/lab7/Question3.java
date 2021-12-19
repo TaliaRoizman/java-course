@@ -14,7 +14,7 @@ public class Question3 {
 				c++;
 			}
 			System.out.println(Arrays.toString(arr));
-			System.out.println("'a', 'e', 'i', 'o', 'u' appears " + c + " times.");
+			System.out.println("Vowles appears " + c + " times.");
 		}
 
 	}
