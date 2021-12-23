@@ -39,9 +39,9 @@ public class Question2 {
 		for (int j = 0; j < arr.length; j++) {
 			while(arr[j]!=0 && i<=5) {
 				newArr[i] = arr[j];
-				i++;
 				break;
 			}
+			i++;
 		}		
 		System.out.println(Arrays.toString(newArr));
 	}
